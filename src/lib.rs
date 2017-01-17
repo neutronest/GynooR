@@ -6,3 +6,4 @@ mod tests {
 }
 
 pub mod geometry;
+pub mod util;
