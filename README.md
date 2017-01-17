@@ -16,4 +16,4 @@ cargo build
 
 # Example Output
 
-![alt_tag]("https://github.com/neutronest/GynooR/blob/master/test.png")
+![alt_tag](https://github.com/neutronest/GynooR/blob/master/test.png)
